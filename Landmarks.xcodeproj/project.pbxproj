@@ -19,6 +19,7 @@
 		6A6105CA2867BE7600BAC781 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6105C92867BE7600BAC781 /* DetailView.swift */; };
 		6A6105CC2867BE8D00BAC781 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6105CB2867BE8D00BAC781 /* ListView.swift */; };
 		6A6105CE2867BEAA00BAC781 /* RowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A6105CD2867BEAA00BAC781 /* RowView.swift */; };
+		6A6105D02867BFBB00BAC781 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6A6105CF2867BFBB00BAC781 /* LICENSE.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		6A6105C92867BE7600BAC781 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		6A6105CB2867BE8D00BAC781 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		6A6105CD2867BEAA00BAC781 /* RowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowView.swift; sourceTree = "<group>"; };
+		6A6105CF2867BFBB00BAC781 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE.txt; path = ../../../../Downloads/BuildingListsAndNavigation/Complete/LICENSE/LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		6A6105AF2867BA3A00BAC781 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				6A6105CF2867BFBB00BAC781 /* LICENSE.txt */,
 				6A6105B02867BA3A00BAC781 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -183,6 +186,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A6105D02867BFBB00BAC781 /* LICENSE.txt in Resources */,
 				6A6105B12867BA3A00BAC781 /* Preview Assets.xcassets in Resources */,
 				6A6105AE2867BA3A00BAC781 /* Assets.xcassets in Resources */,
 				6A6105BE2867BDCF00BAC781 /* landmarkData.json in Resources */,
